@@ -1,0 +1,5 @@
+network-manager (1.32.12.3-deepin) stable; urgency=medium
+
+  * ['Rebuild  against by  current gcc 11.2']
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 10 Aug 2022 21:23:35 +0800

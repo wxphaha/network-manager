@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node name="/">
+  <!--
+      org.freedesktop.NetworkManager.Device.OvsBridge:
+      @short_description: OvsBridge Device
+
+  -->
+  <interface name="org.freedesktop.NetworkManager.Device.OvsBridge">
+
+    <!--
+        Slaves:
+
+        Array of object paths representing ports which are currently enslaved to
+        this bridge.
+
+        Since: 1.14
+    -->
+    <property name="Slaves" type="ao" access="read"/>
+
+  </interface>
+</node>
