@@ -1,3 +1,9 @@
+network-manager (1.44.2-7deepin7) unstable; urgency=medium
+
+  * early request dbus name to improve boot performance.
+
+ -- xinpeng.wang <wangxinpeng@uniontech.com>  Fri, 30 May 2025 11:34:47 +0800
+
 network-manager (1.44.2-7deepin6) unstable; urgency=medium
 
   * add flags of wifi6
